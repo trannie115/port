@@ -1,0 +1,35 @@
+#about img {
+    width: 200px;
+    height: fit-content;
+    border-radius: 50%;
+    justify-content: right;
+  }
+
+
+
+header {
+    background:#34ebd5;
+    color: white;
+  }
+  
+  .projects {
+    display: flex; 
+    flex-wrap: wrap;
+  }
+  
+  .project-item {
+    width: 30%;
+    margin: 1%;   
+    padding: 10px;
+    border: 1px solid #ccc;
+    
+  }
+
+
+
+  footer {
+    background:black;
+    color: #fff;
+    padding: 0pc;
+    text-align: center;
+  }
